@@ -38,7 +38,7 @@ Ejecuta el script pasando los archivos de URLs y payloads como argumentos, junto
 ```bash
 python XSSHunterX.py --urls urls.txt --output csv
 ```
-![[https://github.com/Mr-r00t11/XSSHunterX/blob/main/img/Screenshot_1.png]]
+![[Screenshot_1.png]](https://github.com/Mr-r00t11/XSSHunterX/blob/main/img/Screenshot_1.png)
 
 ## Resultados
 
